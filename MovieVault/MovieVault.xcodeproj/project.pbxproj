@@ -51,8 +51,10 @@
 		EC467B542C8F2A4E005767BD /* MovieVaultUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MovieVaultUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC467B582C8F2A4E005767BD /* MovieVaultUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieVaultUITests.swift; sourceTree = "<group>"; };
 		EC467B5A2C8F2A4E005767BD /* MovieVaultUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieVaultUITestsLaunchTests.swift; sourceTree = "<group>"; };
+
 		ECE3C18B2C9967BF00CC7E38 /* MoviesList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesList.swift; sourceTree = "<group>"; };
 		ECE3C18E2C99685200CC7E38 /* MovieDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetails.swift; sourceTree = "<group>"; };
+
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
