@@ -13,7 +13,17 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    @IBOutlet weak var TableView: UITableView!
 
+
+         override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+             if segue.identifier=="intoDetails" {
+                 let dest = segue.destination as! MovieDetails
+                 dest.movieId = 365177       }
+             else {
+
+             }
+         }
 
 }
 
